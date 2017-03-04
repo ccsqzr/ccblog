@@ -1,2 +1,14 @@
 # ccblog
-codeigniter 写的个人博客项目
+学习使用codeigniter框架时所写的一个博客项目  
+## 目前完成的页面
+
+*  博客首页
+*  分类文章页
+*  文章详情页
+*  后台文章增删改
+*  后台分类增删改
+*  分页输出功能
+*  文章点击量、分类文章数量统计
+
+## 项目截图
+![enter description here][/images/%E6%8D%95%E8%8E%B7.PNG]
