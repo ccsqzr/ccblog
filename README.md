@@ -11,4 +11,4 @@
 *  文章点击量、分类文章数量统计
 
 ## 项目截图
-![enter description here][/images/%E6%8D%95%E8%8E%B7.PNG]
+![首页](https://github.com/ccsqzr/ccblog/raw/master/image/index.png])
